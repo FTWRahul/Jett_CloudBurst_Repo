@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shader Graphs_CloudSwirl
+  m_Shader: {fileID: -6465566751694194690, guid: a09e05d1f84386549927b42f015574ad,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Alpha: 0.5
+    - Vector1_12630EE3: 0.8
+    - Vector1_4DA827BC: 10
+    - Vector1_Alpha: 0.4
+    - Vector1_EA1502D6: 0.5
+    - Vector1_F50F6737: 6
+    m_Colors:
+    - Color_527E9B20: {r: 0.737255, g: 0.737255, b: 0.737255, a: 0}
+    - Vector2_DD05C79A: {r: 0, g: -0.5, b: 0, a: 0}
+    - Vector3_6AA0A005: {r: 0.2, g: 0.2, b: 0.2, a: 0}
