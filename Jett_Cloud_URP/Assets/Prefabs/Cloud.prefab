@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 62764581602167389}
   - component: {fileID: 9116853920471062708}
   - component: {fileID: 1263188175733937147}
-  - component: {fileID: 5898984254074834907}
   m_Layer: 0
   m_Name: AirSwirls
   m_TagString: Untagged
@@ -59,7 +58,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 8217ad0f4bee624478a98c8c1fe4b39e, type: 2}
+  - {fileID: 2100000, guid: acf7f1c1301e78941b73794ca3661aee, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -80,19 +79,6 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!135 &5898984254074834907
-SphereCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2735575719884154484}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Radius: 0.5
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &6624057632803480783
 GameObject:
   m_ObjectHideFlags: 0
